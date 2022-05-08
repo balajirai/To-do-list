@@ -1,5 +1,5 @@
 # To-do-list
-A basic task manager which can be used to organise task according to our priority.
+A basic task manager which can be used to organize task according to our priority.
 
 ---
 
