@@ -1,5 +1,11 @@
 # To-do-list
-A basic task manager which can be used to organize task according to our priority.
+A basic task manager that can be used to organize tasks according to our priority.
+
+---
+
+<p align="center">
+<img src="images/To-do-list.png" width=900>
+</p>
 
 ---
 
